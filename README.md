@@ -54,7 +54,7 @@ python3 --version  # Expected output: Python 3.9 or later
 
 ```bash
 cd /path/to/your/workspace
-git clone https://github.com/AbayoHJovin
+git clone https://github.com/AbayoHJovin/Face-Recog-onnx
 cd Face-Recog-onnx
 ```
 
@@ -621,4 +621,5 @@ A: ONNX Runtime supports mobile; would require porting to appropriate framework 
 ---
 
 **Ready to build your face recognition system?** Start with Step 1 in the [Installation](#installation) section! 🚀
+
 # Face-Recog-onnx
